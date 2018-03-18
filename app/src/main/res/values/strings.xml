@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">fitriani_1202150264_studycase4</string>
+
+    <string-array name="namaMhs">
+        <item>Iti</item>
+        <item>Ayubep</item>
+        <item>Gabby</item>
+        <item>Anila</item>
+        <item>Kumara</item>
+        <item>Deva</item>
+        <item>Ike</item>
+        <item>Karin</item>
+        <item>Nadia</item>
+        <item>Virra</item>
+        <item>Fura</item>
+        <item>One</item>
+        <item>Annisa Ayu</item>
+
+    </string-array>
+</resources>
